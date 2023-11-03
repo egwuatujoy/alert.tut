@@ -1,0 +1,35 @@
+// alert("hello joy");
+// console.log("hello");
+// var visitorName = prompt("what is your name:");
+// console.log(visitorName);
+// if (20 < 10) {
+//   console.log("we are good");
+// } else {
+//   console.log("we are not good");
+// }
+
+// const age = parseInt(prompt("What's your age:"));
+
+// if (age >= 20) {
+//   alert("we are okay");
+// } else if (age >= 10 || age <= 5) {
+//   alert("you have to log out");
+// }
+
+// const age = parseInt(prompt("What's your age:"));
+
+// if (age >= 75 && age <= 100) {
+//   alert("YOU ARE AN A+ STUDENT!!");
+// } else if (age >= 65 && age <= 74) {
+//   alert("YOU ARE AN B+ STUDENT!!");
+// } else if (age >= 55 && age <= 64) {
+//   alert("YOU ARE AN C STUDENT!!");
+// } else if (age >= 45 && age <= 54) {
+//   alert("YOU ARE AN D STUDENT!!");
+// } else if (age >= 35 && age <= 44) {
+//   alert("YOU ARE AN E STUDENT!!");
+// }
+
+// function Name(person) {
+//   console.log("hello" + person);
+// }
